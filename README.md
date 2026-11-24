@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Risk of Rain is an action platformer with roguelike elements. With permanent death as a primary feature, players will have to play their best to get as far as possible. Fight on a mysterious planet with randomly spawning enemies and bosses, either alone or with 3 friends in online co-op.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,14 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | Mac OS X 10.6+ |
+| **Processor** | 2.5 GHz | 2.5 GHz |
+| **Memory** | 1 GB RAM | 1 GB RAM |
+| **Graphics** | Direct X9.0c Compatible Card | OpenGL 2.1+ Support, and recommended dedicated graphics… |
+| **DirectX** | Version 9.0 | Version 9.0 |
+| **Storage** | 130 MB available space | 130 MB available space |
+| **OS *** | Windows Vista / 7 | Windows Vista / 7 |
+| **Additional Notes** | Microsoft Xbox 360 Controller or Direct Input compatibl… | Microsoft Xbox 360 Controller or Direct Input compatibl… |
 
 ---
 
